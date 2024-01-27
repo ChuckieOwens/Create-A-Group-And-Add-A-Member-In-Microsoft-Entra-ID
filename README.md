@@ -11,7 +11,7 @@ Project consists of a simple follow along guide to create a group and add existi
 
 <h2>Environments Used </h2>
 
-- <b>Microsoft Entra ID</b> (21H2)
+- <b>Microsoft Entra ID</b> 
 
 <h2>Lab walk-through:</h2>
 
@@ -36,20 +36,63 @@ Just verify you have an existing student we will add the intern later.Click the 
 <img src="https://imgur.com/egdTV0v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now select "Groups" on the left:  <br/>
+<img src="https://imgur.com/g1SawgN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+Select "Create New Group":  <br/>
+<img src="https://imgur.com/AR8f9Ph.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Refresh and select your new group:  <br/>
+<img src="https://imgur.com/gSmTs0J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+In your new group select members on the left:  <br/>
+<img src="https://imgur.com/AzBIsMG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Select "Add Member" and select existing member to add him to the group:  <br/>
+<img src="https://imgur.com/PsXA0yX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+From Entra ID home page Select "Users" on the left :  <br/>
+<img src="https://imgur.com/gpjREv6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Select "New User/Create New User":  <br/>
+<img src="https://imgur.com/SrqCXw5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create the new user and select review + create:  <br/>
+<img src="https://imgur.com/3nm845n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Review new user info and select create:  <br/>
+<img src="https://imgur.com/qEBNi4Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Refresh to verify new user was created. Click breadcrum in upper left to get back to home page:  <br/>
+<img src="https://imgur.com/Lis98Oq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Select "Groups" on the left:  <br/>
+<img src="https://imgur.com/3AnD9DQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Select the group you created:  <br/>
+<img src="https://imgur.com/dswPsXc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Select "Owners" on the left:  <br/>
+<img src="https://imgur.com/k1QVRuY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Select "Add owners and select your new user created":  <br/>
+<img src="https://imgur.com/MlCGljD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Click refresh to verify new user you created is now the owner of the group:  <br/>
+<img src="https://imgur.com/N04opGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
