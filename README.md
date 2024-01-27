@@ -28,12 +28,12 @@ Use search bar at the top to search Entra ID and select it from the dropdown: <b
 <img src="https://imgur.com/wdWDXWp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Now select "Users" to add an existing member to your group:  <br/>
+Now select "Users" to verify an existing member that you will add to your group later:  <br/>
 <img src="https://imgur.com/aKjJsC1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Just verify you have an existing student we will add the intern later.Click the breadcrum in the upper left to get back to Entra ID home page:  <br/>
+<img src="https://imgur.com/egdTV0v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
